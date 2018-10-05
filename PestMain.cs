@@ -10,7 +10,6 @@ namespace Pets_Main
     {
         static void Main(string[] args)
         {
-            //finish Cats program and figure out how to add other programs to this one
             Pets pet1 = new Pets("dog", "Shadow", "Jose", 42.6);
 
             Console.WriteLine("Name: " + pet1.name);
